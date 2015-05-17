@@ -1,5 +1,5 @@
 minTLS
-==========
+=========
 Copyright David Rufino (c), 2015. See LICENSE for details.
 
 This library is a BSD-licensed, minimal implementation of TLS 1.2. It is largely written in C++ but designed to be used through the pure C API, so that it may be used in any language with a C FFI. **Although ultimately the intention is to have a solid production ready TLS implementation, currently it is alpha quality and incomplete in many areas, so should only be used for testing purposes.**
