@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 199462 (0x30b26)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust, Inc., CN=GeoTrust SSL CA
+        Validity
+            Not Before: Dec 16 21:44:01 2014 GMT
+            Not After : Feb 18 06:52:43 2016 GMT
+        Subject: serialNumber=fkGBourVumBGgQflbzMKAERZDypmc7YW, C=NL, ST=Zuid-Holland, L=Delft, O=Inter IKEA Systems B.V., OU=IT Production, CN=ikea.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b7:3e:86:b7:1f:14:e3:97:fa:33:a5:80:1f:75:
+                    03:42:6c:e7:f0:ab:ec:a7:28:2e:d3:59:0b:07:44:
+                    5f:4a:e2:cf:7c:2e:4f:d0:b5:3d:61:11:49:98:fa:
+                    04:ca:e6:31:44:ea:0c:aa:fa:94:fc:43:6e:01:40:
+                    88:bd:82:b2:d7:4a:85:3c:f3:a8:a0:c2:a7:47:05:
+                    11:f4:e7:8d:42:2c:95:06:a6:c2:71:31:94:f4:e0:
+                    97:cb:3f:a5:c2:68:ef:c8:af:85:2d:58:1c:e2:9b:
+                    60:11:b4:4c:d9:7a:53:ed:ab:a3:dd:18:b4:ac:31:
+                    e2:c9:14:b7:84:cf:4e:59:32:7c:26:3c:d5:ad:ca:
+                    f6:e7:fd:cf:22:82:8e:98:9b:de:ac:d0:c1:11:f1:
+                    25:83:06:35:ef:17:65:8b:3a:04:1c:79:ac:cc:6c:
+                    85:0a:d5:3c:16:df:8b:2c:c3:77:1b:5a:6e:10:92:
+                    2f:d4:f0:46:2f:c3:67:87:00:c4:9a:5c:12:e4:b1:
+                    a6:34:0a:25:28:50:23:a9:3b:1e:0e:7b:67:21:86:
+                    3f:60:1b:d4:37:ee:91:7b:e8:43:ee:b0:03:e7:7d:
+                    b6:2e:da:c2:69:2b:5a:d9:0d:93:68:5e:15:4e:0e:
+                    0d:41:5c:b9:2d:aa:20:0c:3b:c8:c5:10:dc:c3:94:
+                    fa:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:42:79:54:1B:61:CD:55:2B:3E:63:D5:3C:48:57:F5:9F:FB:45:CE:4A
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment, Data Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:securema.ikea.com, DNS:manhattan.ikea.com, DNS:securem.ar.ikea.com, DNS:www.iicg.cn, DNS:www.des.ikea.com, DNS:www.cip.ikea.com, DNS:securem.ikea.com, DNS:secure.iows.ikea.com, DNS:secure.ikea.com, DNS:secure.eu.ikea.com, DNS:secure.ca.ikea.com, DNS:secure.ar.ikea.com, DNS:psathome.ikea.com, DNS:eu-securem.ikea.com, DNS:ca-securem.ikea.com, DNS:ikea.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gtssl-crl.geotrust.com/crls/gtssl.crl
+
+            X509v3 Subject Key Identifier: 
+                E2:C4:48:5E:5A:80:9F:53:D6:A4:8D:1D:5E:09:D3:8E:1E:96:B2:66
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://gtssl-ocsp.geotrust.com
+                CA Issuers - URI:http://gtssl-aia.geotrust.com/gtssl.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         56:1e:34:46:c0:bd:d7:bd:55:b4:19:a6:20:d3:a2:3e:a5:0e:
+         fd:53:f0:71:58:1b:87:7c:b0:00:3b:08:2b:16:8b:ec:b3:3a:
+         7c:91:bb:15:c9:dc:98:07:26:e5:49:8d:09:bd:54:03:7a:47:
+         8c:27:e6:31:69:95:72:19:15:a4:ae:fd:4c:34:9c:ed:f3:d8:
+         6e:d0:a8:88:42:ff:be:5e:c4:48:4f:b7:04:b2:98:37:29:fb:
+         62:ca:3f:39:64:59:41:46:3c:f7:2b:95:a4:13:9b:9a:16:dc:
+         13:49:4d:0e:5c:24:19:48:50:76:e7:5d:3a:b8:e5:71:5f:4c:
+         03:d0:38:e0:9d:28:bc:a2:39:54:4b:17:07:d9:6e:78:1d:73:
+         f9:3f:04:22:af:d0:81:fc:70:5c:3a:b7:4c:ea:c1:a8:56:01:
+         45:0f:ce:e7:5b:1a:89:dd:f9:24:2e:7a:1a:c8:35:08:ff:84:
+         55:48:49:d0:ac:3d:3e:2e:06:93:62:49:a7:52:b0:c4:2e:fc:
+         7e:95:d9:5e:59:b3:1a:97:4a:e4:1e:98:5f:50:ae:07:31:47:
+         47:b7:c6:25:7e:ee:84:6a:30:c5:69:1f:e3:93:6b:71:01:70:
+         ee:f5:ec:88:a8:98:5c:ba:10:3f:ae:11:b6:cd:f9:0f:37:59:
+         16:2d:6b:5b

@@ -1,0 +1,38 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1702616698 (0x657bde7a)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=HP61274B, L=Vancouver, ST=Washington, C=US, O=HP, OU=HP-IPG
+        Validity
+            Not Before: Aug 16 13:47:28 2013 GMT
+            Not After : Aug 11 13:47:28 2033 GMT
+        Subject: CN=HP61274B, L=Vancouver, ST=Washington, C=US, O=HP, OU=HP-IPG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c8:60:63:cb:8b:3c:d1:5a:2f:63:d5:44:95:30:
+                    44:c2:59:42:fd:60:3c:3c:36:c0:76:ff:ae:84:15:
+                    b8:af:2f:df:42:a2:ba:da:c4:88:0c:25:70:0c:50:
+                    ac:e2:b1:3d:91:aa:8c:72:3e:c0:32:c3:18:2e:c8:
+                    f6:ef:ae:ac:e1:f2:8a:e7:5c:66:ca:3c:a7:e8:6d:
+                    19:d1:16:5a:7b:02:43:8b:26:d9:04:c6:d6:64:07:
+                    1f:27:57:fa:73:75:68:96:af:23:e6:86:54:cd:79:
+                    48:0b:3a:7b:88:19:ae:12:77:7e:f2:62:8c:b5:aa:
+                    76:6d:16:97:0c:6f:8e:e1:e5
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+    Signature Algorithm: md5WithRSAEncryption
+         41:08:cd:15:6a:2e:89:84:d2:02:55:e0:94:03:88:ad:d7:6b:
+         b1:92:44:27:69:ff:b0:5f:98:33:ab:50:1a:cc:f9:44:c9:56:
+         fa:d2:6c:96:a3:19:4b:7e:28:22:c6:d6:0a:8e:ed:0c:b9:7e:
+         61:6e:47:0d:c2:ef:06:77:22:d1:41:74:5b:1b:76:77:c3:98:
+         c7:f9:47:cf:28:30:54:3d:52:b9:55:e0:ba:85:16:77:51:da:
+         d7:e0:3a:81:c4:d3:c8:bd:87:26:73:ed:6c:d6:60:83:0e:bd:
+         b7:46:95:cb:72:c7:2f:6d:9d:9d:a6:26:9a:12:03:5e:f8:fc:
+         d5:06

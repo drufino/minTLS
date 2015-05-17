@@ -1,0 +1,43 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 14141407197808010321 (0xc4405eec097fa451)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=FR, ST=FR, L=Generic, O=OmniPCX Office, OU=OmniPCX Office, CN=Alcatel_CA
+        Validity
+            Not Before: Dec 20 09:36:33 2014 GMT
+            Not After : Dec 17 09:36:33 2024 GMT
+        Subject: C=FR, ST=FR, L=Generic, O=OmniPCX Office, OU=OmniPCX Office, CN=Alcatel_CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ac:ab:0e:08:d4:4d:65:ee:a0:38:ca:3e:71:c4:
+                    ef:9e:3d:f1:7a:2b:9a:9f:59:15:2d:5c:a2:22:a3:
+                    6e:cb:d7:91:f3:3e:6e:f9:cb:2d:85:37:b1:2a:e7:
+                    5c:74:a1:5d:52:2e:d5:15:b2:b9:0f:f0:78:6b:60:
+                    cf:3c:1a:d6:40:91:72:a4:9b:01:a5:e3:d6:28:8b:
+                    28:84:78:ac:f2:43:6e:f5:23:0c:71:4c:71:c7:c2:
+                    22:d9:b4:bd:3a:37:81:ec:c1:0e:c7:c2:b9:35:86:
+                    72:d7:a2:e1:7e:a5:1e:46:6f:6c:62:42:46:a6:d6:
+                    fb:3d:5e:d0:1c:0b:fe:e4:0d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                <EMPTY>
+
+            X509v3 Basic Constraints: 
+                CA:TRUE, pathlen:0
+            Netscape Comment: 
+                ssl generated custom CA certificate
+            Netscape Cert Type: 
+                SSL CA
+    Signature Algorithm: md5WithRSAEncryption
+         51:1d:de:02:bd:d9:f7:30:1a:a8:dd:03:5d:6d:79:9e:6e:df:
+         38:64:3d:6c:1c:44:43:a6:ef:19:c6:b7:54:e7:67:15:71:c4:
+         59:6a:f0:fb:5a:4f:15:9b:f2:cc:bf:99:5f:ad:fd:0c:78:37:
+         f4:d1:51:50:da:57:96:2c:f0:5e:27:b0:d3:da:82:2a:69:b9:
+         2c:9f:02:b8:a8:97:1c:1e:1a:bb:56:ac:b6:19:80:7e:37:da:
+         a0:b8:5e:56:72:3d:1c:06:8e:3e:e5:42:b8:ea:d8:01:c5:1f:
+         d0:b6:bf:0c:f2:8b:fa:55:33:ca:84:c1:84:26:80:e2:ad:3e:
+         6f:60

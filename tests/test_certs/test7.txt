@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            64:0c:60:81:89:30:9a:ba:aa:a2:2b:2b:78:c5:17:50:69:c6:ea
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=NL, L=Amsterdam, O=Verizon Enterprise Solutions, OU=Cybertrust, CN=Verizon Akamai SureServer CA G14-SHA1
+        Validity
+            Not Before: Dec 17 18:52:00 2014 GMT
+            Not After : Dec 17 18:51:59 2015 GMT
+        Subject: C=US, ST=MI, L=Battle Creek, O=Kellogg Company, OU=Digital Marketing IT, CN=pringleshack.pringles.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:69:11:86:ee:b9:f9:ce:f2:7d:0d:4c:be:32:
+                    39:87:0e:51:8f:8e:b9:4c:28:15:b2:97:1f:83:c4:
+                    7c:c5:6d:08:18:fd:7e:40:39:98:18:50:9f:b4:9c:
+                    de:fd:27:6c:00:c2:12:f3:68:ff:6b:af:f1:67:33:
+                    49:d5:5c:b5:79:0e:48:03:d9:d6:e0:d9:8c:4f:45:
+                    8b:83:64:3f:bb:d2:a1:41:86:78:c9:d1:13:78:73:
+                    22:a1:14:d4:56:ce:d4:f8:17:2a:8f:27:a6:d7:a7:
+                    2d:39:c5:e7:22:cc:21:3f:8d:0d:7b:73:db:ac:73:
+                    12:38:97:ad:3d:98:34:65:a8:15:c6:bc:be:11:a8:
+                    7d:17:19:c8:e9:bb:2c:af:9a:14:77:a3:36:f7:17:
+                    06:93:70:d6:85:54:b0:a9:94:97:6f:b6:22:01:27:
+                    11:8c:90:fe:15:e0:e2:66:6c:29:a0:ae:70:ae:cb:
+                    cc:a0:d3:52:ba:25:43:9e:05:5a:76:5b:e1:fa:bd:
+                    2d:8d:a4:06:dc:b5:f8:8d:67:0b:65:7b:05:d7:44:
+                    63:29:24:06:1a:29:81:fc:22:21:b9:5a:03:16:78:
+                    9d:2d:0c:c1:d7:3d:e4:43:f7:57:1f:23:a2:df:3b:
+                    95:30:ab:ec:8c:9c:79:b4:9e:22:66:f3:2e:9d:fe:
+                    c3:e5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6334.1.50
+                  CPS: https://secure.omniroot.com/repository
+
+            Authority Information Access: 
+                OCSP - URI:http://vassg141.ocsp.omniroot.com
+                CA Issuers - URI:https://cacert.a.omniroot.com/vassg141.crt
+                CA Issuers - URI:https://cacert.a.omniroot.com/vassg141.der
+
+            X509v3 Subject Alternative Name: 
+                DNS:pringleshack.pringles.com
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Authority Key Identifier: 
+                keyid:DD:6C:80:7C:BA:B5:32:17:A5:84:41:40:F0:D2:04:66:13:2F:A9:90
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://vassg141.crl.omniroot.com/vassg141.crl
+
+            X509v3 Subject Key Identifier: 
+                21:C1:12:57:22:6E:99:40:EE:D7:F8:4E:18:96:8F:EF:D3:D2:FF:B8
+    Signature Algorithm: sha1WithRSAEncryption
+         25:c7:d6:4b:a4:f7:99:f1:28:58:dd:db:67:6c:f3:e6:45:9f:
+         c0:07:0b:c5:b1:f0:16:99:7b:f3:ab:e4:53:3a:af:a5:0e:82:
+         b5:81:d9:97:7b:96:95:a1:21:41:44:e6:f8:af:b0:c1:99:fc:
+         1e:69:bd:1a:71:bf:a6:03:17:ca:91:d7:1e:54:72:09:47:44:
+         7a:e8:e2:8d:3b:1e:26:80:b0:cc:a8:12:a6:27:27:98:89:a8:
+         10:2d:23:e1:ae:46:26:da:86:e3:a2:00:b9:00:93:85:95:bf:
+         b0:9e:85:6d:0b:f9:9e:30:d5:fc:75:a4:36:82:18:7d:aa:b0:
+         72:9c:7a:81:6b:53:0d:69:33:75:06:1a:87:9d:4f:6f:f4:91:
+         44:87:cd:41:8f:d3:3c:2b:43:81:8b:51:5d:d9:3c:56:82:30:
+         48:02:b2:db:9f:f2:cb:9c:60:d9:86:7a:98:4f:1a:dc:98:ba:
+         c1:eb:17:b1:8b:ee:09:72:ee:63:e4:b6:3b:39:5e:40:de:8b:
+         f8:4b:1e:03:8f:bb:66:3a:dd:a4:34:31:83:74:7d:18:2d:91:
+         c5:20:27:17:b3:c0:44:68:cc:37:bb:96:65:0f:03:33:61:b2:
+         76:57:6e:db:1f:ba:db:ab:8e:3a:cf:48:e6:cb:4a:12:d4:9c:
+         9c:8c:a2:40

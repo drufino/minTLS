@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 18308195372164521973 (0xfe13c6b0a4511ff5)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=f4:0f:1b:7d:6b:48, OU=RV042, O=Cisco Systems, Inc., L=Irvine, C=US, SN=Califomia
+        Validity
+            Not Before: Jan  1 08:00:05 2010 GMT
+            Not After : Dec 30 08:00:05 2019 GMT
+        Subject: CN=f4:0f:1b:7d:6b:48, OU=RV042, O=Cisco Systems, Inc., L=Irvine, C=US, SN=Califomia
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a3:11:75:a4:fe:73:d3:17:11:92:b3:81:97:b8:
+                    8b:09:86:63:52:84:55:b0:13:a7:ce:fd:8b:51:81:
+                    0f:e9:ee:e4:03:6a:da:ae:d3:d1:a5:3c:72:41:db:
+                    52:14:33:27:da:8d:cd:d0:e1:1d:ca:5a:70:b5:72:
+                    33:17:8f:9b:ad:d8:cb:c4:85:5f:19:3e:bc:2f:92:
+                    d8:db:ca:11:c0:4c:42:7c:99:cf:1e:a8:f8:06:53:
+                    e7:1b:b1:02:81:76:46:68:0b:45:c8:8a:bb:d2:89:
+                    b8:e6:35:f4:19:e0:66:da:06:3a:a9:be:9e:34:65:
+                    3b:47:46:67:4d:6e:b0:2d:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                A8:68:57:F3:91:C6:FC:4C:E8:B3:C6:F4:B4:CB:2D:43:20:DE:69:4E
+            X509v3 Authority Key Identifier: 
+                keyid:A8:68:57:F3:91:C6:FC:4C:E8:B3:C6:F4:B4:CB:2D:43:20:DE:69:4E
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         76:b4:51:df:9b:d7:57:8e:bd:a4:02:d0:92:79:f8:e0:4b:f9:
+         5c:5a:4c:31:f8:00:94:0a:bd:4f:2c:3e:2d:0b:b7:47:8b:4c:
+         dc:9b:74:94:7c:47:47:8f:a6:22:55:ec:45:10:b7:f2:fb:d2:
+         91:a6:d0:6a:57:6c:dc:d1:27:2e:be:ed:80:27:ec:3b:5b:f0:
+         fb:76:87:fc:54:8d:54:a1:70:de:6e:9a:51:af:f0:93:84:1b:
+         8d:cc:d8:25:4a:2d:e8:58:de:73:fd:35:e5:79:ad:e3:a0:db:
+         a9:c0:59:08:45:6f:55:f2:ec:28:4f:9b:ce:e0:29:eb:b1:f2:
+         0f:a5

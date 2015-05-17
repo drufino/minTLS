@@ -1,0 +1,6 @@
+googletest
+openssl
+aes.sublime-workspace
+_build
+*.zip
+*.user

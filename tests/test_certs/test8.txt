@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: -1284598444 (-0x4c916aac)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=60.48.28.229
+        Validity
+            Not Before: Dec 20 12:43:07 2014 GMT
+            Not After : Dec 17 12:43:07 2024 GMT
+        Subject: CN=60.48.28.229
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b8:0d:ba:de:34:cd:88:7f:5f:d3:b5:b1:95:02:
+                    64:7e:89:dc:8f:c1:4a:1c:30:13:6d:6b:d3:2d:9a:
+                    e0:48:a2:95:e6:09:a2:29:a4:66:09:c5:24:af:39:
+                    92:64:ed:a7:fb:3d:65:6b:4e:1e:ad:ed:d1:7a:73:
+                    17:4e:f7:88:37:9f:de:40:cd:e7:47:06:01:03:d0:
+                    bd:12:0e:19:55:b8:7f:b3:3c:49:cc:7d:cb:53:23:
+                    bd:4b:d1:c0:fd:71:5b:79:23:ca:bf:a6:b1:4d:48:
+                    a7:2b:ca:62:80:b5:13:1c:ca:7d:e6:02:98:b1:9b:
+                    59:97:5b:c4:43:d8:38:b5:c3
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         6e:1a:5e:36:85:e8:ee:67:81:1b:4b:f6:77:dd:89:f5:b6:fd:
+         a9:1c:bf:3d:00:55:86:5c:b1:ea:62:42:37:35:bb:f2:80:7d:
+         b3:b8:31:9a:ee:a9:25:b2:b4:dc:f2:25:73:a3:c0:1d:15:e3:
+         33:8f:84:fc:f4:c9:4e:b2:42:76:ef:17:58:8c:a7:e4:73:1c:
+         4f:92:02:97:96:21:ba:f2:a9:70:b1:79:7c:c7:6a:b5:42:1e:
+         02:31:42:b4:57:e9:11:13:ca:62:d2:2d:6a:cf:95:72:0e:ab:
+         1e:0e:ea:bd:5e:f3:d4:b0:b0:d2:50:6c:90:08:d5:d4:2b:84:
+         a3:07

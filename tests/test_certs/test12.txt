@@ -1,0 +1,29 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 0 (0x0)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=SXJZ_238.69./serialNumber=CDC7380/unstructuredName=SXJZ_238.69.
+        Validity
+            Not Before: Dec 22 21:04:27 2014 GMT
+            Not After : Dec 19 21:04:27 2024 GMT
+        Subject: CN=SXJZ_238.69./serialNumber=CDC7380/unstructuredName=SXJZ_238.69.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (768 bit)
+                Modulus:
+                    00:ea:30:b3:68:ff:9f:c4:03:78:d2:84:8c:43:3f:
+                    d3:a3:17:4a:bd:a1:04:dd:d4:c9:27:30:ba:1c:dd:
+                    62:07:c0:a8:5a:c0:af:40:e7:be:28:ff:62:06:7b:
+                    44:ce:9a:94:07:ec:ed:2b:d1:c3:26:7e:90:65:79:
+                    e3:4a:c3:6e:3d:c7:97:20:2f:6d:2a:e0:d0:c6:67:
+                    6c:f6:b6:31:1c:c1:61:90:6a:1f:38:31:8d:86:1f:
+                    0d:2b:e3:f5:4d:d2:59
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         30:71:1b:c5:aa:65:33:b0:05:b9:f4:10:2c:2b:a9:3e:8d:70:
+         a8:5b:cb:2e:06:ac:45:17:87:d0:97:b5:19:94:21:81:fc:49:
+         d4:c3:7f:44:23:52:22:95:c1:f4:24:88:b9:6d:3a:c3:1f:01:
+         7b:38:2f:b7:03:fa:98:b8:d9:12:cc:6c:87:2b:13:52:0b:86:
+         cc:f8:d4:7f:53:57:48:7e:e8:73:8c:ae:8a:ca:8e:fc:7c:d2:
+         c3:e5:82:20:b6:3d

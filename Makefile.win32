@@ -1,0 +1,51 @@
+all: googletest KAT_TESTS
+
+gtest-1.7.0.zip:
+	thirdparty\curl.exe http://googletest.googlecode.com/files/gtest-1.7.0.zip > gtest-1.7.0.zip
+
+googletest: gtest-1.7.0.zip
+	thirdparty\unzip.exe gtest-1.7.0.zip
+	move gtest-1.7.0 googletest
+	cl.exe 
+
+Debug/gtest.lib: googletest
+	cl /c /MDd /FoDebug/gtest-all.obj /Igoogletest/include /Igoogletest /EHsc googletest/src/gtest-all.cc
+	lib Debug/gtest-all.obj -OUT:Debug/gtest.lib
+
+Release/gtest.lib: googletest
+	cl /c /MD /FoRelease/gtest-all.obj /Igoogletest/include /Igoogletest /EHsc googletest/src/gtest-all.cc
+	lib Release/gtest-all.obj -OUT:Release/gtest.lib
+
+tests/KAT_AES_MMT.zip:
+	thirdparty\curl.exe http://csrc.nist.gov/groups/STM/cavp/documents/aes/aesmmt.zip > tests/KAT_AES_MMT.zip
+
+tests/KAT_AES.zip:
+	thirdparty\curl.exe http://csrc.nist.gov/groups/STM/cavp/documents/aes/KAT_AES.zip > tests/KAT_AES.zip
+
+tests/KAT_RSA.zip:
+	thirdparty\curl.exe http://csrc.nist.gov/groups/STM/cavp/documents/dss/186-3rsatestvectors.zip > tests/KAT_RSA.zip
+
+tests/KAT_HMAC.zip:
+	thirdparty\curl.exe http://csrc.nist.gov/groups/STM/cavp/documents/mac/hmactestvectors.zip > tests/KAT_HMAC.zip
+
+tests/KAT_SHA.zip:
+	thirdparty\curl.exe http://csrc.nist.gov/groups/STM/cavp/documents/shs/shabytetestvectors.zip > tests/KAT_SHA.zip
+
+tests/KAT_RSA:
+	@if not exist tests\KAT_RSA mkdir tests\KAT_RSA
+	@thirdparty\unzip.exe -qo tests\KAT_RSA.zip -d tests\KAT_RSA
+
+tests/KAT_AES:
+	@if not exist tests\KAT_AES mkdir tests\KAT_AES
+	@thirdparty\unzip.exe -qo tests\KAT_AES.zip -d tests\KAT_AES
+	@thirdparty\unzip.exe -qo tests\KAT_AES_MMT.zip -d tests\KAT_AES
+
+tests/KAT_SHA:
+	@if not exist tests\KAT_SHA mkdir tests\KAT_SHA
+	@thirdparty\unzip.exe -qo tests\KAT_SHA.zip -d tests\KAT_SHA
+
+tests/KAT_HMAC:
+	@if not exist tests\KAT_HMAC mkdir tests\KAT_HMAC
+	@thirdparty\unzip.exe -qo tests\KAT_HMAC.zip -d tests\KAT_HMAC
+
+KAT_TESTS: tests/KAT_AES tests/KAT_RSA tests/KAT_SHA tests/KAT_HMAC

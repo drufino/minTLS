@@ -1,0 +1,29 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 0 (0x0)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=groum-coci./serialNumber=2B234800/unstructuredName=groum-coci.
+        Validity
+            Not Before: Dec 22 00:38:48 2014 GMT
+            Not After : Dec 19 00:38:48 2024 GMT
+        Subject: CN=groum-coci./serialNumber=2B234800/unstructuredName=groum-coci.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (768 bit)
+                Modulus:
+                    00:ca:8f:7c:84:4c:07:8f:30:3c:53:bf:9e:12:b5:
+                    3d:e4:76:02:dd:82:f6:19:04:34:cd:6f:e0:70:06:
+                    32:a9:4e:63:b3:e6:56:0d:96:c7:22:ec:2f:06:fc:
+                    e9:4e:c8:6a:35:88:e0:98:51:bf:7a:a0:bc:79:b3:
+                    da:f7:53:9c:66:ee:8d:ec:72:50:b7:36:89:a2:7f:
+                    96:8a:58:25:4e:ea:3f:d3:4e:24:2d:36:21:91:50:
+                    f4:29:37:f3:03:06:23
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         2f:3e:c5:bc:de:a1:8e:70:5a:32:34:a4:ed:cd:5e:7d:f8:9d:
+         86:02:42:e0:26:1e:e4:80:9b:e9:f6:f3:7e:c5:a4:5b:84:e7:
+         42:5e:ce:63:c1:a2:77:81:6f:60:82:31:76:88:f3:dc:7e:1c:
+         28:0b:9d:18:39:07:bd:fd:6e:f0:e3:e8:38:90:60:21:d5:ad:
+         5b:03:9b:20:e5:52:d6:10:2c:0e:3f:70:f3:c3:fa:7f:44:fc:
+         95:c0:f9:2f:21:70

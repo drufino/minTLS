@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 13093136399190247968 (0xb5b42a2f4578ca20)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=95.115.129.224
+        Validity
+            Not Before: Dec 22 02:54:21 2014 GMT
+            Not After : Jan 16 02:54:21 2038 GMT
+        Subject: CN=95.115.129.224
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:d1:8f:5d:2b:f8:1d:f8:db:35:9a:22:1b:72:
+                    30:11:b8:98:f0:8c:1e:5e:91:19:f0:c4:1b:b9:2d:
+                    59:55:5f:dc:36:75:fe:26:aa:f3:8c:6b:a4:9a:1d:
+                    c4:1f:cc:c1:bf:ab:ea:43:8f:6d:45:39:20:3d:db:
+                    7e:6d:d5:06:4c:dd:ad:c7:8a:ff:5d:f6:a8:85:af:
+                    0d:b5:41:13:b8:c2:19:a0:df:fc:43:c3:6d:52:cd:
+                    ad:29:47:c2:1e:8d:cb:e3:0c:bc:1a:92:02:8f:db:
+                    1d:54:c8:02:5f:22:11:bf:98:2e:20:6a:d2:8e:04:
+                    7b:f5:38:e9:58:99:e4:94:7b:89:4b:a5:6b:7c:96:
+                    70:ae:0a:42:1a:3e:96:13:15:8d:1c:56:8f:d4:ac:
+                    b9:db:1e:dc:0a:cc:f3:92:eb:24:8f:f9:a0:78:e0:
+                    f7:f0:d0:3f:0f:b0:fd:f7:1b:f1:03:c3:3c:12:ab:
+                    0a:44:e5:ae:50:58:82:54:9c:5a:bc:f8:fd:e7:fa:
+                    4b:4f:6a:e1:ae:5c:73:b0:cc:a2:1c:c2:47:05:36:
+                    7f:44:00:bb:21:c2:d8:2e:83:7d:66:29:06:a9:ad:
+                    25:7e:64:19:c5:48:57:98:7e:3c:52:a7:c9:ef:e5:
+                    4c:78:c2:dc:5a:78:ed:d4:ed:4e:d1:ef:53:26:e2:
+                    61:3b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                A1:49:D4:45:AC:79:5F:7F:31:2F:C4:A7:3E:0E:0C:B9:05:1D:AB:92
+            X509v3 Authority Key Identifier: 
+                keyid:A1:49:D4:45:AC:79:5F:7F:31:2F:C4:A7:3E:0E:0C:B9:05:1D:AB:92
+                DirName:/CN=95.115.129.224
+                serial:B5:B4:2A:2F:45:78:CA:20
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Subject Alternative Name: critical
+                IP Address:95.115.129.224, DNS:fritz.fonwlan.box, DNS:fritz.box, DNS:www.fritz.box, DNS:myfritz.box, DNS:www.myfritz.box
+    Signature Algorithm: sha1WithRSAEncryption
+         a6:ef:a3:49:a6:63:8f:51:ca:d1:4e:f6:f3:d3:a5:bb:53:ee:
+         e1:95:56:ba:6b:5b:86:09:24:de:0a:28:13:b4:74:f3:7b:91:
+         59:f0:90:3c:93:31:e5:3a:13:3b:dc:37:1f:d9:fb:89:a1:1f:
+         c7:d4:88:51:7c:cb:d6:80:af:fc:62:f1:c9:2e:9b:df:1b:21:
+         ea:02:3d:d2:16:93:80:df:72:35:0c:2b:74:3f:1b:c9:fa:ed:
+         f8:ed:0e:25:0c:76:21:b3:b2:a5:0e:be:d0:3b:ee:43:30:ec:
+         dd:16:56:05:ca:c2:5e:12:65:68:c7:40:8c:74:fd:81:20:36:
+         9e:a9:a8:97:33:fa:ba:09:c5:d0:03:ea:eb:15:30:bc:80:26:
+         78:44:3f:67:84:c7:d9:b2:e7:6f:e1:8e:9d:e6:20:e6:ef:3a:
+         43:c6:c2:44:e2:28:a8:4c:33:75:c2:b1:a9:3d:74:ec:3f:c7:
+         89:c1:9a:d4:68:e1:a6:f1:85:a9:ec:0f:e5:0a:c1:3a:77:e9:
+         83:9f:8a:e3:d3:16:ff:3c:09:c1:35:45:25:33:71:23:ae:12:
+         44:72:fd:90:09:e8:ed:0d:6a:40:c1:6b:6b:25:15:34:da:f2:
+         cb:f4:cd:92:4d:e6:74:6b:bf:be:0d:ab:2f:15:3c:0c:31:52:
+         49:b4:45:b6

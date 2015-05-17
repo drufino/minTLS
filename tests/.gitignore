@@ -1,0 +1,5 @@
+*_test
+*.result
+KAT_AES
+KAT_AES.zip
+_build
