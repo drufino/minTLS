@@ -189,7 +189,7 @@ mintls_read_appdata(
 }
 
 void
-tf_enable_debugging()
+mintls_enable_debugging()
 {
     tf_debug_enable();
 }
